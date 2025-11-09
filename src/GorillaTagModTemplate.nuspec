@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>Graic.Template.GorillaTagModTemplate.nuspec</id>
+    <id>Entity.Template.GorillaTagModTemplate.nuspec</id>
 		<title>Gorilla Tag Mod Template</title>
     <version>1.2.1</version>
     <description>
-			Template for creating PCVR Gorilla Tag mods.
-    </description>
-    <authors>Graic</authors>
+		Template for creating PCVR Gorilla Tag mods.
+		Original By Graic
+		Modified by Entity-B
+	</description>
+    <authors>Entity_B</authors>
     <license type="expression">Apache-2.0</license>
-		<repository type="git" url="https://github.com/Graicc/GorillaTagModTemplate.git" />
+		<repository type="git" url="https://github.com/Entity-B/EntityGorillaTagModTemplate.git" />
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
